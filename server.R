@@ -1,4 +1,5 @@
 library(shiny)
+require(ACD)
 
 shinyServer(function(input, output) {
     output$abbildung <- renderPlot({
