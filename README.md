@@ -6,5 +6,5 @@ This is an example application for Shiny.
 library(shiny)
 
 # Easiest way is to use runGitHub
-runGitHub("shiny_example", "rstudio")
+runGitHub("minimal_example", "jkruppa")
 ```
